@@ -30,8 +30,4 @@ if (isNaN(height) || isNaN(weight) || height <= 0 || weight <= 0) {
     results.innerHTML = message;
 }
   
-
-
-
-
 })
